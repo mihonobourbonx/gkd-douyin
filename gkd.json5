@@ -3,9 +3,9 @@
 {
   id: 6660123,
   name: '抖音-关闭参与话题发布横幅',
-  version: 1,
+  version: 2,
   author: 'kiriko',
-  checkUpdateUrl: 'https://cdn.jsdelivr.net/gh/mihonobourbonx/gkd-douyin@main/gkd.json5',
+  checkUpdateUrl: 'https://ghproxy.net/https://raw.githubusercontent.com/mihonobourbonx/gkd-douyin/main/gkd.json5',
   supportUri: 'https://github.com/mihonobourbonx/gkd-douyin/issues/new/choose',
   categories: [],
   apps: [
